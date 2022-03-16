@@ -7,3 +7,6 @@
 Tu będzie lista:
 * pierwsze
 * drugie
+
+
+Zmiany zrobione przez stronę WWW
