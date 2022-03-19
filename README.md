@@ -1,12 +1,3 @@
-# Przykład H1
+# Repozytorium przeznaczone na materiały z Mini Prezentacji
 
-## Przykład H2 
-
-### Przykład H3
-
-Tu będzie lista:
-* pierwsze
-* drugie
-
-
-Zmiany zrobione przez stronę WWW
+Prezentacje aktualnie odbywają się co środa w godzinach 18:00-20:00
